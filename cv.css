@@ -1,0 +1,28 @@
+body {
+	color:black;
+	background-color:white;
+	background-size: 1950px 1000px;
+	}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-size: 20;
+
+}
+h3{
+    font-size : 30;
+    position: relative;
+	text-align : center;
+    top: 5%;
+	left: 50%;
+	transform: translate(-50%,-50%);	
+}
+img {
+    width: 150px;
+    display: block;
+    position: absolute;
+    top : 2.5% ;
+    margin-left:1650;
+    margin-right: auto;
+  }
